@@ -16,7 +16,7 @@ In the 1750s, a large proportion of the population had very short life expectanc
 
 ![](./charts/life-expectancy-distribution-sweden-in-1751-59.png)
 
-For the 67% who survived beyond age 5, total life expectancy averaged 55 years. Among adults, the most common lifespan was in the 70s. (_This average of 55 is lower than 70 because adult lifespans had a right-skewed distribution._)
+For the 67% who survived beyond age 5, total life expectancy averaged 55 years. Among adults, the most common lifespan was in the 70s. (_This average of 55 is lower than 70 because adult lifespans had a left-skewed distribution._)
 
 By the 2020s, the early-mortality group had decreased to under 0.3%. The adult-life distribution now shaped the overall pattern.
 
